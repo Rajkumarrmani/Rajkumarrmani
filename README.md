@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-A Software Engineer, In love with Kotlin.
+A Software Engineer, In love with Java, Kotlin.
 
 
 ## 🌐 Socials:
