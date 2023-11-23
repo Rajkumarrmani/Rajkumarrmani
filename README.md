@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hai 👋
 
 # 💫 About Me:
 A Software Engineer, In love with Java, and Kotlin.
