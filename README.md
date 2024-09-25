@@ -10,6 +10,7 @@ A Software Engineer, In love with Kotlin, Jetpack compose and DSA.
 # 💻 Tech Stack:
 ![ANDROID](https://img.shields.io/badge/android-%ffffff.svg?style=for-the-badge) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 # 📊 GitHub Stats:
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rajkumarrmani&theme=dark" alt="GitHub Streak" /></a>
 ![](https://github-readme-stats.vercel.app/api?username=Rajkumarrmani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajkumarrmani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumarrmani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
