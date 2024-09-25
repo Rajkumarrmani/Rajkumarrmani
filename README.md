@@ -1,7 +1,7 @@
 ### Hai 👋
 
 # 💫 About Me:
-A Software Engineer, In love with Java, Kotlin, and DSA.
+A Software Engineer, In love with Kotlin, Jetpack compose and DSA.
 
 
 ## 🌐 Socials:
